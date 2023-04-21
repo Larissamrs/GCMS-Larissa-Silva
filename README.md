@@ -5,3 +5,4 @@ Repositório criado para a disciplina Gerência de Configuração e Mudança de 
 Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 
 Larissa Silva (@Larissamrs, dona)
+Ramide Dantas (@ramidedantas)
